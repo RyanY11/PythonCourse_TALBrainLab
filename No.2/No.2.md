@@ -50,11 +50,18 @@
 - InvolvedIn VS SelfPractice
 - 课程之外……
 
+### 关于Git
+
+- Git——分布式版本管理系统
+- GitHub——基于web的Git仓库，开源项目托管平台
+- GitLab——基于web的Git仓库，更加灵活，适合团队的项目托管，更加精细的权限控制
+- 创建账号并学习使用，后期通过GitHub提交练习的代码：
+[GitHub使用介绍](https://guides.github.com/activities/hello-world/ "GitHub使用介绍")
 
 ### 相关资源
 
 - [廖雪峰Python3教程](https://www.liaoxuefeng.com/wiki/1016959663602400 "廖雪峰Python3教程")
 - [菜鸟教程Python3](https://www.runoob.com/python3/python3-tutorial.html "菜鸟教程Python3")
-- 《Thnik Python》
+- [《Thnik Python》](https://github.com/RyanY11/PythonCourse_TALBrainLab/blob/main/No.2/Think%20Python%202ed%20%E4%B8%AD%E8%AF%91%E7%89%88%E7%B2%BE%E6%A0%A1.pdf "Thnik Python")
 - [B站_零基础入门学Python](https://www.bilibili.com/video/av27789609?from=search&seid=3573401975973782308 "B站_零基础入门学Python")
 - [B站_这可能是你见过的最简洁最没有废话的Python教程](https://www.bilibili.com/video/av5236569?from=search&seid=3573401975973782308 "这可能是你见过的最简洁最没有废话的Python教程")
