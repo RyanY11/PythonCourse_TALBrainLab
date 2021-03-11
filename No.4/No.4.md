@@ -253,7 +253,7 @@ try/except 语句基本结构
 > 
 > finally 子句无论是否发生异常都将执行最后的代码
 
-### Let us ry try
+### Let us try try
 
 一个小作业
 
